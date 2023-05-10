@@ -44,11 +44,6 @@ section:nth-child(even){
     letter-spacing: .4rem;
 }
 
-/* .heading span{
-    text-transform: uppercase;
-    color:#0b354b;
-} */
-
 .btn{
     display: inline-block;
     margin-top: 1rem;
@@ -540,14 +535,7 @@ section:nth-child(even){
 }
 
 
-
-
-
-
-
-
-
-/* media queries  */
+/*....... media queries......... */
 @media (max-width:991px){
 
     html{
